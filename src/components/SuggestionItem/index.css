@@ -1,0 +1,26 @@
+.item-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  list-style-type: none;
+}
+
+.suggestion-text {
+  color: #64748b;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+
+.arrow-img {
+  height: 30px;
+  width: 30px;
+}
+
+.arrow-btn {
+  border-style: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
